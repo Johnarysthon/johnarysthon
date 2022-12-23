@@ -1,7 +1,7 @@
 ## Olá! Eu sou o John Arysthon
 
-- Hoje trabalho como Suporte Técnico
-- Estou estudando os serviços da AWS
+- No momento estou em busca de novas oportunidades na área de DevOps e Cloud
+- Estou estudando: AWS, Azure, Linux Server, Docker e Kubernetes
 - Pronouns: ele/dele
 
 <div align="center">
