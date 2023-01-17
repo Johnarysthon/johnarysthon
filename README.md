@@ -1,7 +1,7 @@
 ## Olá! Eu sou o John Arysthon
 
 - No momento estou em busca de novas oportunidades na área de DevOps e Cloud
-- Estou estudando: AWS, Azure, Linux Server, Docker e Kubernetes
+- Estou estudando: AWS, Linux Server, Docker, Kubernetes, CI/CD
 - Pronouns: ele/dele
 
 <div align="center">
