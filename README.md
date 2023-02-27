@@ -1,6 +1,6 @@
 ## Olá! Eu sou o John Arysthon
 
-- No momento estou em busca de novas oportunidades na área de DevOps e Cloud
+- No momento sou estagiário na NuageIT, atuando como CloudOps
 - Estou estudando: AWS, Linux Server, Docker, Kubernetes, CI/CD
 - Pronouns: ele/dele
 
